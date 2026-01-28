@@ -19,11 +19,11 @@ title: Noah Mualuko # the main title
 tagline: Data Science | AI | ML | DL | Data Analysis # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My Upskilling Road Map
+  My Upskilling Road Map.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://noahmusyoka.github.io/"
+url: "https://noahmusyoka.github.io"
 
 github:
   username: noahmusyoka # change to your GitHub username
