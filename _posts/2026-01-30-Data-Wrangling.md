@@ -1,5 +1,5 @@
 ---
-title: "My Journey into Data Science, AI, ML and Deep Learning"
+title: "Data Wrangling: Where Data Science Really Begins"
 categories: [Tech, AI, Data Insights]
 tags: [Data Wrangling, Data Cleaning, Data Enriching, Data Cleaning]
 ---
