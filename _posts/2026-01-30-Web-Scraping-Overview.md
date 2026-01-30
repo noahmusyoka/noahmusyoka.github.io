@@ -1,14 +1,14 @@
 ---
 title: "What Web Scraping Taught Me About Data in the Real World"
 categories: [Tech, AI, Data Insights, Data Engineering]
-tags: [Data Science, Data Analysis, Artificial Intelligence, Machine Learning, Data Engineering, Deep Learning, Pandas, Beatifulsoup, Requests]
+tags: [Pandas, Beatifulsoup, HTML Requests]
 ---
 
 
 ## What Web Scraping Taught Me About Data in the Real World 🌐📊
+
 Web scraping was one of those concepts that sounded powerful in theory but truly clicked for me once I got my hands dirty. In a world where data is everywhere but rarely packaged neatly, web scraping felt like unlocking a door to raw, real-world information.
 At its core, web scraping is about extracting data from websites and transforming it into a structured format that can be analyzed. But beyond the technical definition, this project taught me how messy, unpredictable, and human-generated data really is.
-
 ---
 
 ## From Curiosity to Code
